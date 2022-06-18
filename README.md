@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhavesh132
 - 👀 I’m interested in FrontEnd Programming
 - 🌱 I’m currently learning React and MERN
-- 💞️ I’m looking to collaborate on ...
 - 📫 Mail me at: bhavesh25515@gmail.com
 
 <!---
