@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavesh132
-- 👀 I’m interested in FrontEnd Programming
+- 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning React and MERN
 - 📫 Mail me at: bhavesh25515@gmail.com
 
